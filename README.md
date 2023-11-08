@@ -20,18 +20,11 @@ I'm an experienced software engineer and founder of OpenBroker, with a focus on 
 
 ## Languages and Tools
 
-- JavaScript
-- Ruby
-- React
-- Ruby on Rails
-- GraphQL
-- Git
-- MySQL
-- Python
-- PostgreSQL
-- Docker
-- AWS
-- Heroku
-- Redis
-- Google Cloud Platform (GCP)
+| Tech Skills      | Frameworks          | Languages       | Dev-Ops                   | Databases              | APIs                   |
+|------------------|---------------------|-----------------|---------------------------|------------------------|-----------------------|
+| JavaScript       | Ruby on Rails       | JavaScript      | Git                       | MySQL                  | AWS                   |
+| Ruby             | React               | Ruby            | CircleCI                  | PostgreSQL             | Google Cloud Platform |
+| GraphQL          | NextJS              | Python (Learning) | Docker                  | Redis                  | Stripe                |
+| Git              | Django (Learning)  |                   | Heroku, Nginx, Kubernetes | PostGIS                | Twilio                |
+
 
