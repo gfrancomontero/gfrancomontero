@@ -4,11 +4,12 @@ I'm an experienced software engineer and founder of OpenBroker, with a focus on 
 
 ## About Me
 
-- 🔭 I'm the maker of [OpenBroker.com](http://www.openbroker.com) and many more.
-- 🌱 I'm expanding my knowledge by learning GraphQL API development, NextJS, and Python.
-- 👨‍💻 I have a background as a Fullstack developer at OpenBroker.com
+- 🔭 I'm the founder of [OpenBroker.com](http://www.openbroker.com) and many more startups
+- 👨‍💻 My alter-ego is a Fullstack developer at OpenBroker.com
+- 🌱 Never not learning. Currently learning GraphQL API development, NextJS, and Django
 - 📈 I have a track record of achievements, including "OpenBroker S.L." "CleanHero Inc." and "Supercharge Productions Inc."
-- 💬 Feel free to ask me about Front-end Frameworks or internal and external-facing API development
+- 💬 Feel free to ask me about product lifecycle, business intelligence, raising capital, front-end frameworks, or internal and external-facing API development
+- 🥘 Feel free to ask me about how to cook an incredible seafood paella
 
 ## Get in Touch
 
