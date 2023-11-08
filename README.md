@@ -1,7 +1,5 @@
 Hola! It's Gonzalo Franco 👋
 
-_(if you're wondering how to create a neat little intro like this one for your GitHub profile — it's quite easy. Create a new repo, name it to match your username, initialize it with a readme.md file, add content using markdown language, commit your changes, and off you go._ 😉
-
 I'm an experienced software engineer and founder of OpenBroker, with a focus on JavaScript and Ruby development. With over 6 years of experience, I've crafted my skills in writing high-quality, scalable, and performant code. I'm passionate about best practices, technical writing, and clear documentation, always paying close attention to detail and accuracy.
 
 ## About Me
@@ -27,4 +25,6 @@ I'm an experienced software engineer and founder of OpenBroker, with a focus on 
 | GraphQL          | NextJS              | Python (Learning) | Docker                  | Redis                  | Stripe                |
 | Git              | Django (Learning)  |                   | Heroku, Nginx, Kubernetes | PostGIS                | Twilio                |
 
+_(if you're wondering how to create a neat little intro like this one for your GitHub profile — it's quite easy. Create a new repo, name it to match your username, initialize it with a readme.md file, add content using markdown language, commit your changes, and off you go._ 😉
 
+Gonzalo
