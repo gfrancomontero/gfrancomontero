@@ -6,7 +6,7 @@ I'm an experienced software engineer and founder of OpenBroker, with a focus on 
 
 ## About Me
 
-- 🔭 I'm currently working at [OpenBroker.com](http://www.openbroker.com) in New York.
+- 🔭 I'm the maker of [OpenBroker.com](http://www.openbroker.com) 
 - 🌱 I'm expanding my knowledge by learning GraphQL API development, NextJS, and Python.
 - 👨‍💻 I have a background as a Fullstack developer at OpenBroker.com
 - 📈 I have a track record of achievements, including "OpenBroker S.L." "CleanHero Inc." and "Supercharge Productions Inc."
