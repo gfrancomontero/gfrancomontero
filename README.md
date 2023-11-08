@@ -9,7 +9,6 @@ I'm an experienced software engineer and founder of OpenBroker, with a focus on 
 - 🌱 Never not learning. Currently learning GraphQL API development, NextJS, and Django
 - 📈 I have a track record of achievements, including "OpenBroker S.L." "CleanHero Inc." and "Supercharge Productions Inc."
 - 💬 Feel free to ask me about product lifecycle, business intelligence, raising capital, front-end frameworks, or internal and external-facing API development
-- 🥘 Feel free to ask me about how to cook an incredible seafood paella
 
 ## Get in Touch
 
