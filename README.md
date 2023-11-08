@@ -2,6 +2,8 @@
 
 Hi, it's Gonzalo 👋
 
+_(if you're wondering how to create a neat little intro like this one for your GitHub profile — it's quite easy. Just create a repo with the same name matching your username, make sure it's initialized with a readme.md file in it, add content to your liking, commit your changes, and off you go! I'll let you reserach how to add formatting on your own 😉)_
+
 I'm an experienced software engineer and founder of OpenBroker, with a focus on JavaScript and Ruby development. With over 6 years of experience, I've crafted my skills in writing high-quality, scalable, and performant code. I'm passionate about best practices, technical writing, and clear documentation, always paying close attention to detail and accuracy.
 
 ## About Me
