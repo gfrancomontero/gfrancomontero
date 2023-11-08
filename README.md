@@ -1,10 +1,8 @@
 # gfrancomontero/README.md
 
-Hi 👋, I'm Gonzalo Franco
+Hi 👋, It's Gonzalo
 
 I'm an experienced software engineer and founder of OpenBroker, with a focus on JavaScript and Ruby development. With over 6 years of experience, I've crafted my skills in writing high-quality, scalable, and performant code. I'm passionate about best practices, technical writing, and clear documentation, always paying close attention to detail and accuracy.
-
-![Gonzalo Franco](https://avatars.githubusercontent.com/u/65114161?v=4)
 
 ## About Me
 
