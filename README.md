@@ -1,13 +1,13 @@
 Hola! It's Gonzalo Franco 👋
 
-I'm an experienced software engineer and founder of OpenBroker, with a focus on JavaScript and Ruby development. With over 6 years of experience, I've crafted my skills in writing high-quality, scalable, and performant code. I'm passionate about best practices, technical writing, and clear documentation, always paying close attention to detail and accuracy.
+Experienced software engineer and founder of OpenBroker, with a focus on JavaScript Frameworks / Ruby back-end developments. With over 6 years of experience, I've crafted my skills in writing high-quality, scalable, and performant code. Passionate about best practices, technical writing, and clear documentation, always paying close attention to detail and accuracy.
 
 ## About Me
 
-- 🔭 I'm the founder of [OpenBroker.com](http://www.openbroker.com) and many more startups
-- 👨‍💻 My alter-ego is a Fullstack developer at OpenBroker.com
+- 🔭 Founder of [OpenBroker.com](http://www.openbroker.com) and many more startups
+- 👨‍💻 Which means: Fullstack developer at OpenBroker.com
 - 🌱 Never not learning. Currently learning GraphQL API development, NextJS, and Django
-- 📈 I have a track record of achievements, including "OpenBroker S.L." "CleanHero Inc." and "Supercharge Productions Inc."
+- 📈 Track record of achievements, both in Europe and USA
 - 💬 Feel free to ask me about product lifecycle, business intelligence, raising capital, front-end frameworks, or internal and external-facing API development
 
 ## Get in Touch
@@ -20,8 +20,8 @@ I'm an experienced software engineer and founder of OpenBroker, with a focus on 
 
 | Tech Skills      | Frameworks          | Languages       | Dev-Ops                   | Databases              | APIs                   |
 |------------------|---------------------|-----------------|---------------------------|------------------------|-----------------------|
-| JavaScript       | Ruby on Rails       | JavaScript      | Git                       | MySQL                  | AWS                   |
-| Ruby             | React               | Ruby            | CircleCI                  | PostgreSQL             | Google Cloud Platform |
+| JavaScript       | Ruby on Rails       | JavaScript      | Git                       | MySQL                  | AWS / Google CLoud    |
+| Ruby             | React               | Ruby            | CircleCI                  | PostgreSQL             | OpenAi                |
 | GraphQL          | NextJS              | Python (Learning) | Docker                  | Redis                  | Stripe                |
 | Git              | Django (Learning)  |                   | Heroku, Nginx, Kubernetes | PostGIS                | Twilio                |
 
