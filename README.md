@@ -6,7 +6,7 @@ Experienced software engineer and founder of OpenBroker, with a focus on JavaScr
 
 - 🔭 Founder of [OpenBroker.com](http://www.openbroker.com) and many more startups
 - 👨‍💻 Which means: Fullstack developer at OpenBroker.com
-- 🌱 Never not learning. Currently learning GraphQL API development, NextJS, and Django
+- 🌱 Never not learning. Currently learning GraphQL API development, Solidity, and Django
 - 📈 Track record of achievements, both in Europe and USA
 - 💬 Feel free to ask me about product lifecycle, business intelligence, raising capital, front-end frameworks, or internal and external-facing API development
 
@@ -16,14 +16,15 @@ Experienced software engineer and founder of OpenBroker, with a focus on JavaScr
 - 🌐 Connect with me on [LinkedIn](https://www.linkedin.com/in/gfrancomontero).
 - ⚡️ Visit my profile at [gonzalofranco.com](http://www.gonzalofranco.com).
 
-## Languages and Tools
+## Some Languages and Tools I use on the regular
 
-| Tech Skills      | Frameworks          | Languages       | Dev-Ops                   | Databases              | APIs                   |
+| Tech Skills      | Frameworks          | Languages       | Dev-Ops                   | Databases              | APIs                  |
 |------------------|---------------------|-----------------|---------------------------|------------------------|-----------------------|
 | JavaScript       | Ruby on Rails       | JavaScript      | Git                       | MySQL                  | AWS / Google CLoud    |
 | Ruby             | React               | Ruby            | CircleCI                  | PostgreSQL             | OpenAi                |
-| GraphQL          | NextJS              | Python (Learning) | Docker                  | Redis                  | Stripe                |
-| Git              | Django (Learning)  |                   | Heroku, Nginx, Kubernetes | PostGIS                | Twilio                |
+| GraphQL          | NextJS              | HTML            | Docker                    | Redis                  | Stripe                |
+| Git              | Django (Learning)   | Tailwind / Scss | Heroku, Nginx, Kubernetes | PostGIS                | Twilio                |
+|                  | Flask               | Python (Learning)| AWS, EC2, Azure           |                        | Algolia               |
 
 _(if you're wondering how to create a neat little intro like this one for your GitHub profile — it's quite easy. Create a new repo, name it to match your username, initialize it with a readme.md file, add content using markdown language, commit your changes, and off you go.)_ 😉
 
