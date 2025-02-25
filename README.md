@@ -1,6 +1,6 @@
 Hola! It's Gonzalo Franco 👋
 
-Experienced software engineer and founder of OpenBroker, with a focus on JavaScript Frameworks / Ruby back-end developments. With over 6 years of experience, I've crafted my skills in writing high-quality, scalable, and performant code. Passionate about best practices, technical writing, and clear documentation, always paying close attention to detail and accuracy.
+Experienced software engineer and founder of a few startups, with a focus on JavaScript Frameworks / Ruby back-end developments. With over 6 years of experience, I've crafted my skills in writing high-quality, scalable, and performant code. Passionate about best practices, technical writing, and clear documentation, always paying close attention to detail and accuracy.
 
 ## About Me
 
