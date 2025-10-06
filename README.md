@@ -14,7 +14,7 @@
 
 </div>
 
-Hey, I'm **Gonzalo** — Full‑stack engineer based in Miami, building high‑traffic AI-powered systems for government, web3, SaaS, and marketplaces. Currently Full-Time Front‑End Engineer at the [Massachusetts State Government](https://my.mass.gov), via Last Call Media Inc. (LCM).
+Hey, I'm **Gonzalo** — Full‑stack engineer based in Miami, building high‑traffic portals for government, web3, SaaS, and marketplaces. Currently Full-Time Front‑End Engineer at the [Massachusetts State Government](https://my.mass.gov), via Last Call Media Inc. (LCM).
 
 ### About Me
 
