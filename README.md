@@ -36,7 +36,7 @@ Hey, I'm **Gonzalo** — Full‑stack engineer based in Miami, building high‑t
 - Architect intelligent APIs (GraphQL/REST) with AI-powered features for B2B SaaS & real‑estate portals.
 - Integrate Web3 (MetaMask, Alchemy), AI (OpenAI, PyTorch, TensorFlow), and machine learning pipelines.
 
-### Tech Stack
+### Daily Tech Stack
 
 - **Front‑End**: Next.js 15, React, Tailwind CSS, HTML5/CSS3, Sass/SCSS
 - **Back‑End**: NestJS, Express.js, Ruby on Rails, Node.js
@@ -48,7 +48,7 @@ Hey, I'm **Gonzalo** — Full‑stack engineer based in Miami, building high‑t
 - **APIs & Services**: GraphQL, REST APIs, Stripe, Twilio, Algolia Search
 
 
-### AI & Machine Learning
+### AI & Machine Learning experience
 
 - **Natural Language Processing**: OpenAI GPT integrations, automated content generation, intelligent chatbots
 - **Computer Vision**: OpenAI Vision API, image analysis, automated property photo categorization
