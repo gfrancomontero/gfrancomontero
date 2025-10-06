@@ -16,9 +16,9 @@
 
 Hey, I'm **Gonzalo** — Full‑stack engineer based in Miami, building high‑traffic portals for government, web3, SaaS, and marketplaces. Currently Full-Time Front‑End Engineer at the [Massachusetts State Government](https://my.mass.gov), via Last Call Media Inc. (LCM).
 
-### About Me
+### Recent work
 
-- **Front-End Engineer – [MA State Gov](https://my.mass.gov)**: MA is our client via Last Call Media Inc. We build and maintain the official portal (5.5M+ users) with Next.js 15, TypeScript, NestJS, Tailwind, Docker & AWS.
+- **Front-End Engineer – [MA State Gov](https://my.mass.gov)**: MA is our client through Last Call Media Inc. We build and maintain the official portal (5.5 M+ users) using Next.js 15, NestJS, Jest & Playwright for testing, Storybook, E2E/Regression testing, TypeScript, Prisma, Tailwind, Docker, AWS, and a variety of vendor APIs.
 
 - **Front-End Engineer – [BusesForSale](https://busesforsale.com)**: The largest buses marketplace in the world ($250K MRR) where I single‑handedly migrated a legacy front‑end from PHP to Next.js/NestJS, improving performance and developer velocity. Implemented AI-powered vehicle recommendations and intelligent search filtering.
 
